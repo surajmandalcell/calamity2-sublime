@@ -1,4 +1,4 @@
-# [Calamity Theme for Sublime Text](https://github.com/surajmandalcell/calamity2-sublime)
+# [Calamity2 Theme for Sublime Text](https://github.com/surajmandalcell/calamity2-sublime)
 > A purple dark theme with medium  to low contrast for [Sublime Text](https://www.sublimetext.com/)
 
 ![calamity-logotype](images/logotype.png)
